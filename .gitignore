@@ -1,0 +1,13 @@
+Library/
+*.csproj
+*.sln
+*.DotSettings
+obj/
+Temp/
+Build/
+*.suo
+Thumbs.db.meta
+ProjectSettings/ProjectVersion.txt
+*.blend1
+*.blend1.meta
+*.pdb
