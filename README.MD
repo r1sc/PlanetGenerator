@@ -1,6 +1,6 @@
 # Planet generator
 
-![Planet](http://gfycat.com/TimelyIgnorantChrysalis)
+![Planet](http://gfycat.com/TimelyIgnorantChrysalis.gifv)
 
 Generates an ico-sphere and permutates it with simplex noise.
 Ico-sphere code originally stolen from http://wiki.unity3d.com/index.php/ProceduralPrimitives#C.23_-_IcoSphere.
